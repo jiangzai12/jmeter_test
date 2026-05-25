@@ -1,0 +1,2 @@
+-- 初始数据由 DataInitializer.java 以编程方式生成
+-- 此文件保留为空，避免与 JPA ddl-auto=update 冲突
